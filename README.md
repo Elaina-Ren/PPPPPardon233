@@ -15,16 +15,6 @@
 
 
 
-<table>
-    <tr>
-        <td ><center><img src="https://github-readme-stats.vercel.app/api?username=Pardon233&show_icons=true&theme=onedar&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k"></td>
-        <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPPPPardon233&layout=compact&langs_count=8&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"  ></td>
-    </tr>
-</table>
-
-
-
-
 <p align="left">
 </p>
 
