@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Welcome my Friend!
 
 <a href="https://github.com/anuraghazra/convoychat">
