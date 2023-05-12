@@ -6,7 +6,6 @@
 - 🏫 I am studying for my bachelor's degree at College of Computer Science, Nankai University
   <!-- 
   &nbsp; -->
-- 
 
 <table>
     <tr>
