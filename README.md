@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @PPPPPardon233
 - 👀 I’m interested in DeepLearning
-- 📫 mail pardon233@foxmail.com to reach me
+- 📫 mail liyanze20011010@gmail.com to reach me
 - 🏫 I am studying for my bachelor's degree at College of Computer Science, Nankai University
 
 
